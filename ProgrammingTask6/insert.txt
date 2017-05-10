@@ -1,0 +1,13 @@
+insert in 2-3-4 tree:
+
+if we see a 3-key node, the middle key becomes the parent node,
+if we want to insert in that node
+
+->this means splitting the 3-node
+
+side key becomes their own node
+ensure parent's key are not full
+
+
+
+ 

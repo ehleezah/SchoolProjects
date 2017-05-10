@@ -1,0 +1,33 @@
+First run:
+
+Collisions: 
+	Linear:		123
+	Quadratic:	78
+	Chained:	0
+Collisions: 
+	Linear:		246
+	Quadratic:	189
+	Chained:	109
+
+
+Second run:
+
+Collisions: 
+	Linear:		116
+	Quadratic:	71
+	Chained:	0
+Collisions: 
+	Linear:		232
+	Quadratic:	170
+	Chained:	99
+
+Third run:
+
+Collisions: 
+	Linear:		139
+	Quadratic:	72
+	Chained:	0
+Collisions: 
+	Linear:		278
+	Quadratic:	169
+	Chained:	97
